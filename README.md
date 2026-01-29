@@ -151,6 +151,9 @@ Main Functions:
 - Yellow/White → PWM Pin  
 
 > Use common ground between ESP32 and power supply.
+<img width="672" height="434" alt="image" src="https://github.com/user-attachments/assets/65927e99-a02b-4ea2-90c9-6733e64e8e7a" />
+<img width="671" height="413" alt="image" src="https://github.com/user-attachments/assets/bf3acfe9-73c8-4b17-8fbb-33eafca78a5a" />
+<img width="775" height="549" alt="image" src="https://github.com/user-attachments/assets/291c316b-2efa-4952-a2af-7cfc46c23dc0" />
 
 ---
 
