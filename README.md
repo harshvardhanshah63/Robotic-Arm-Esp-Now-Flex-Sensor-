@@ -242,4 +242,6 @@ It provides a low-cost, efficient, and scalable solution for prosthetic and robo
 ## 👨‍💻 Author
 
 **Project Name:** Robotic Arm : EXOGENESIS  
-Developed By HARSHVARDHAN SHAH
+**Developed By:** [HARSHVARDHAN SHAH](https://github.com/harshvardhanshah63)
+**Developed By:** [SARTHAK TISGAONKAR](https://github.com/SarthakTisgaonkar)
+**Developed By:** [KANAAD BUWA](https://github.com/kanaadbuwa)
